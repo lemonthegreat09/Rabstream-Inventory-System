@@ -1,0 +1,33 @@
+select, input, button {
+  margin: 6px 0;
+  padding: 6px;
+  font-size: 16px;
+}
+
+option {
+  color: #000; /* ensure visible text */
+  background-color: #fff;
+}
+
+body {
+  background: #f7f9fc;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.history-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 15px;
+}
+.history-table th, .history-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+.history-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+.history-table th {
+  background-color: #4CAF50;
+  color: white;
+}

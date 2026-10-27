@@ -1,0 +1,3 @@
+Email: admin@inventory.local
+
+Password: Admin@123
